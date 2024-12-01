@@ -1,2 +1,2 @@
-# TCC_Conta_Integrada
+# Conta Integrada
 Trabalha de Conclusão de Curso - PUCRS - Conta Integrada
